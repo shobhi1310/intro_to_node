@@ -52,3 +52,4 @@ You'll see the build output of heroku deploying your app. Once its done, we can 
 
 # Navigation Link
 - [Testing](./tests.md)
+- [Debugging](./debug.md)
