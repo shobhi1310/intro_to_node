@@ -47,6 +47,9 @@ npm install package1 package2 package3 --save
 ```
 You can install as many packages with one command as you like. The `--save` flag is to let NPM know to update the package.json's dependency field with all of these packages. We need this because we don't want to check in the downloaded packages into source code for many reason. So how does anyone else on your team, or even you on another machine know what packages this app needs? Well NPM will save the package names and versions so NPM on another machine can look at that and install from there. Your package.json should have updated.
 
+> `--save` is no longer needed from `npm 5.0.0` onwards as installed modules are added as a dependency by default.
+
+
 You'll also notice a new folder on your project's root named `node_modules`. This is where NPM will install your packages. You should never have to touch this folder. But if you take a peek, you'll see more than the packages you installed. That's because those packages needed other packages, and so on and so on. NPM stores them flat in the node_modules folder. This helps with preventing duplicates and circular dependencies.
 
 # Navigation Link

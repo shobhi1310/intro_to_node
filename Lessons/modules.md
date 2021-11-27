@@ -7,7 +7,7 @@ A module is a reusable chunk of code that has its own context. That way modules 
 You can think of them like lego blocks that you can create, import, and share.
 
 ## Two module types
-By default, Node.js uses common js modules. With newer versions of Node.js we can now take advantage of ES6 modules. To opt into using this syntax, you can use the `.mjs` extension instead of `.js`. We'll be using the ES6 module syntax going forward as they are the standard now with browsers adding support now.
+By default, Node.js uses [common js modules](./common_module.md). With newer versions of Node.js we can now take advantage of ES6 modules. To opt into using this syntax, you can use the `.mjs` extension instead of `.js`. We'll be using the ES6 module syntax going forward as they are the standard now with browsers adding support now.
 
 ## Module syntax
 Now, let's create our first module. The only thing we have to do is expose some code in one for our JavaScript files. We can do that with the `export ` keyword.
