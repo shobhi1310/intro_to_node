@@ -12,3 +12,7 @@ Because Node.js can run outside of the browser, it can be used for pretty much a
 - Automations
 - Basic Scripting
 - GPU shopping bots 👀
+
+# Navigation Link
+- [Welcome](index.md)
+- [Installation](./installation.md)
