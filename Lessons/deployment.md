@@ -17,7 +17,7 @@ And that's it. Your CLI can now be installed with `npm install [name]`.
 ## Servers
 For API's and background tasks that operation on API's or databases, you'd deploy these to a hosting provider like **AWS**, **Heroku**, **Google Cloud**, etc. Let's deploy our Server! We'll be using `Heroku` for this as its really easy to deploy an app.
 
-First create a heroku account and then install the cli. Next, we have to tell heroku how to start our app. We can add a start script in our package.json. We also have to tell heroku what version of Node.js we want to use.
+First create a heroku account and then install the 🔗[cli](https://devcenter.heroku.com/articles/heroku-cli). Next, we have to tell heroku how to start our app. We can add a start script in our package.json. We also have to tell heroku what version of Node.js we want to use.
 ```json
 "scripts": {
   "start": "node ./path/to/server.mjs"

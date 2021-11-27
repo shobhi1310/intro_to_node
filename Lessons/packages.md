@@ -35,9 +35,11 @@ NPM has several commands at its disposal that you don't need to know really. The
 No matter what company you're at or the app, you'll work with these three commands all the time. Unless you're one of the crazies that don't write tests 😘. The rest of the commands will be unique to your app.
 
 ## Finding and installing packages
-Most modules are hosted on a registry somewhere. The biggest and most used one is, well, the NPM registry. They don't stand alone though. Github (which owns NPM now) also allows devs to publish packages to their registry. And there are many others. The sweet thing about NPM, is that you can point to any registry, default being NPM.
+Most modules are hosted on a registry somewhere. The biggest and most used one is, well, the 🔗[NPM registry](https://www.npmjs.com/). They don't stand alone though. Github (which owns NPM now) also allows devs to publish packages to their registry. And there are many others. The sweet thing about NPM, is that you can point to any registry, default being NPM.
 
-A good flow to find a package you need that you don't already know by name yet, is to go the the 🔗[npm site](https://www.npmjs.com/) or Google and search for what you need. Say you need a lib to convert html to PDF's 🤷, NPM will give you back a list of packages.NPM search
+A good flow to find a package you need that you don't already know by name yet, is to go the the 🔗[npm site](https://www.npmjs.com/) or Google and search for what you need. Say you need a lib to convert html to PDF's 🤷, NPM will give you back a list of packages.
+
+![NPM search](../Images/npm_package_search.jpeg)
 
 Once you click a package, you can see the documentation from the `README.md` and any links to Github or website. You can also see the author and the last time it was updated. All of this info is great to help with choosing a package to install. You never know what you're going to get. Once you know the package(s) you want to install, you can do so with:
 ```bash
