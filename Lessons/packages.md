@@ -48,5 +48,5 @@ You can install as many packages with one command as you like. The `--save` flag
 You'll also notice a new folder on your project's root named `node_modules`. This is where NPM will install your packages. You should never have to touch this folder. But if you take a peek, you'll see more than the packages you installed. That's because those packages needed other packages, and so on and so on. NPM stores them flat in the node_modules folder. This helps with preventing duplicates and circular dependencies.
 
 # Navigation Link
-- [Previous]()
-- [Next]()
+- [Error Handling](./error_handling.md)
+- [CLIs](./cli.md)

@@ -14,5 +14,5 @@ In that file, write some JS. Try out `console.log('hello there')`. To execute th
 ```
 
 # Navigation Link
-- [Previous]()
-- [Next]()
+- [Installation](./installation.md)
+- [Globals](./globals.md)

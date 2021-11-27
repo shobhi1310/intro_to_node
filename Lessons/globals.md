@@ -12,5 +12,5 @@ Like the Browser, Node.js comes with some practical globals for us to use in our
 Depending on what version on Node.js you're running, there are so many more globals. Not as many as the Browser, but enough that you'll probably never use many of them. Check them out 🔗[here](https://nodejs.org/api/globals.html).
 
 # Navigation Link
-- [Previous]()
-- [Next]()
+- [Executing Node](./execution.md)
+- [Modules](./modules.md)

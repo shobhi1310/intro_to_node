@@ -71,5 +71,5 @@ if (argv.print) {
 With just a few lines of JS we were able to create a really powerful CLI with room for improvement. Like adding more options via flags. Even adding sub commands.
 
 # Navigation Link
-- [Previous]()
-- [Next]()
+- [Packages](./packages.md)
+- [Servers](./server.md)

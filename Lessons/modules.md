@@ -50,5 +50,5 @@ Node.js comes with some great internal modules. You can think of them as like th
 - http - interact with OS level networking. Useful for creating servers.
 
 # Navigation Link
-- [Previous]()
-- [Next]()
+- [Globals](./globals.md)
+- [File System](./file_system.md)

@@ -14,5 +14,5 @@ Because Node.js can run outside of the browser, it can be used for pretty much a
 - GPU shopping bots 👀
 
 # Navigation Link
-- [Welcome](index.md)
+- [Welcome](../index.md)
 - [Installation](./installation.md)
