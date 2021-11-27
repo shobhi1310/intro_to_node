@@ -51,4 +51,4 @@ You'll see the build output of heroku deploying your app. Once its done, we can 
 ...And that's it!
 
 # Navigation Link
-- [Servers](./server.md)
+- [Testing](./tests.md)
